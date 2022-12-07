@@ -6,6 +6,7 @@ Additionally, I'm a PhD student at FRC CSC RAS. My research goal is to investiga
 ### Notable repos:
 - [textfab](https://github.com/Astromis/textfab) - a tiny library that is intended to organize all kinds of preprocessing functions in an understandable conveyor-like structure. The basic idea is to represent all functions as process units with the manager that can guide the text through the user-defined sequence of units. Used in my research.
 - [SentenceGraph](https://github.com/Astromis/SentenceGraph) - a simple wrapper on UDPipe parser that allows you to parse text on morphological and syntactical levels representing all sentences as a graph. There are several handy methods for its manipulation.
+- [Small Student Science Corpus](https://github.com/Astromis/Small-Student-Science-Corpus) - a text collection from student scientific papers with title, abstract, keywords and paragraph segmentation annotation.
 
 ### How to reach me:
 - Telegram - @Astromis
